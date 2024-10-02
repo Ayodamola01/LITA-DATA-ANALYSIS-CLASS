@@ -1,2 +1,3 @@
-# LITA-DATA-ANALYSIS-CLASS
-Hands-on practical on Data Analysis 
+# LITA-DATA-ANALYSIS-CLASS WITH INCUBATOR HUB
+
+## CLASS DOCUMENTATION: Hands-on practical on Data Analysis.
